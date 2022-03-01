@@ -1,0 +1,600 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of the Kerry quit-rent, 1681</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 44 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08654</idno>
+            <idno type="STC">Wing C1096A</idno>
+            <idno type="STC">ESTC R205941</idno>
+            <idno type="EEBO-CITATION">61296902</idno>
+            <idno type="OCLC">ocm 61296902</idno>
+            <idno type="VID">180486</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08654)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180486)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2831:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of the Kerry quit-rent, 1681</title>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Dublin? :</pubPlace>
+                  <date>1681]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Includes additional title page.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Imperfect: pages stained with slight loss of print.</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  17th century --  Sources.</term>
+               <term>Ireland --  Politics and government --  17th century --  Sources.</term>
+               <term>Property tax --  law and legislation --  Ireland --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:180486:1" rendition="simple:additions"/>
+            <head>THE CASE Of The KERRY <hi>Q<g ref="char:V">Ʋ</g>IT-RENT</hi> 1681.</head>
+            <q>
+               <bibl>
+                  <hi>GENESIS, 47</hi> Chap. <hi>23, 24, 25, 26, 27,</hi> v.</bibl>
+               <p>
+                  <bibl>
+                     <hi>23,</hi>
+                  </bibl> Then Joſeph ſaid unto the people, Behold, I have bought you this day, and your Land, for Pharoah, lo, <hi>here is</hi> ſeed for you, and ye ſhall ſow the Land.</p>
+               <p>
+                  <bibl>
+                     <hi>24</hi>
+                  </bibl> And it ſhall come to paſs in the increaſe, that you ſhall give the fifth part unto Pharaoh, and four parts ſhall be your own, for ſeed of the field and for your food, and for them of your houſhold, and for food for your little ones.</p>
+               <p>
+                  <bibl>
+                     <hi>25</hi>
+                  </bibl> And they ſaid, Thou haſt ſaved our lives: let us find grace in the ſight of our Lord, and we will be Pharaohs ſervants.</p>
+               <p>
+                  <bibl>
+                     <hi>26</hi>
+                  </bibl> And Joſeph made it a Law over the Land of Egypt unto this day, that Pharaoh ſhould have the fifth part; except the Land of the Prieſts only, which became not Pharaohs.</p>
+               <p>
+                  <bibl>
+                     <hi>27,</hi>
+                  </bibl> And Iſrael dwelt in the Land of Egypt in the Countrey of Goſhen; and they had poſſeſſions therein, and grew, and multiplied excedingly.</p>
+            </q>
+            <lg>
+               <l>The Land was <hi>Pharahos,</hi> and the Men his ſlaves</l>
+               <l>Yet but One Fift for Seed and all, he craves;</l>
+               <l>The Tenants throve and multipli'd, ſo as</l>
+               <l>The Rate of Fifths a Law for long time was.</l>
+            </lg>
+            <lg>
+               <l>But two Fifths, without Seed, from th' Owner's Soare,</l>
+               <l>'Tis thrice as much, as <hi>Pharaoh</hi> took, and more;</l>
+               <l>Well; have We three Fifths left? Not One, We ſay;</l>
+               <l>Strange Rules took two, Miſtakes the reſt, away.</l>
+               <l>What if for three years, We have pay'd Nineteen?</l>
+               <l>In <hi>AEgypt</hi> Never ſo od a Rule was ſeen:</l>
+               <l>Do'nt <hi>Pharaoh</hi> cruel; Nor the worſt bondage, ſtile</l>
+               <l>
+                  <hi>AEgyptian;</hi> 
+                  <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> in our Iſle.</l>
+            </lg>
+            <pb facs="tcp:180486:2" rendition="simple:additions"/>
+            <pb facs="tcp:180486:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:180486:3"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="3" facs="tcp:180486:3" rendition="simple:additions"/>
+            <head>The CASE of the <hi>KERRY</hi> Quit-Rents. 1681.</head>
+            <p>
+               <hi>COurts of Judicature are open to all comers, and Thoſe who hear their pro<g ref="char:EOLhyphen"/>ceedings, are Judges, even of the Judges themſelves. Now the perſons concerned in this Caſe have had the Judgment of ſo many By-ſtanders (whilſt their Cauſe was Arguing in the Exchequer.) That they are incourag'd to expoſe it in Print to the Judgment and Cognizance of the whole World. And have to<g ref="char:EOLhyphen"/>gether with their Caſe Printed an Afidavit alſo, which may ſerve as a</hi> Juramen<g ref="char:EOLhyphen"/>tum Calumniae, <hi>Importing that they themſelves think well of their own preten<g ref="char:EOLhyphen"/>ſions and that what they contend for, is not a ſmall or frivolous matter, and may perſwade the Reader, that the grounds whereupon they proceed, are not onely true, but that the dealings which they have had upon them are Wonderful.</hi>
+            </p>
+            <p>
+               <hi>They are not unmindful that to Print their Concernments is lyable to many dangers and Inconveniencies; But believing that their Arguments are founded upon Eternal Truths, not temporary Tricks, They hope that no Caprice, Prejudice, Revenge, Surpriſe, ſly Inſinuation, Ridiculing of Right, pretence of Intricacy, power of Factions, Envious diſpoſition, nor other ſecret cauſes can finally prevail a<g ref="char:EOLhyphen"/>gainſt Laws founded upon common ſence and reaſon; Wherefore, and for that they expect their Adverſaries will alſo be upon Oath, and in Print, concerning this Matter, They venture out and ſay, that the Caſe of the</hi> Kerry <hi>Quit-Rents conſiſts of theſe principal points or queſtions</hi> viz.</p>
+            <p>THere is a Survey, wherein the Quantity of profitable Lands is ſet forth in two ſeveral Columns. The one commonly called the Ex<g ref="char:EOLhyphen"/>tream Collumn. And the other, the Reduced Collumn.</p>
+            <p>Now the Queſtion is, By which of theſe two Collumns the Kings Quit-Rent ought to be charged and paid?</p>
+            <p n="2">2 Whereas the Plaintiffs have enjoyed the Lands ſet out to them, ſcarce three years of 21 years and a half, and the Kings Miniſters have diſpoſed of them for the reſt of the time. The queſtion is, whether by the intention of the Clauſe in the 37th. page of the Explanatory Act, (which is to incou<g ref="char:EOLhyphen"/>rage Plantation) the Quit-Rents be not fully ſatisfied, which Collumn ſo<g ref="char:EOLhyphen"/>ever be the Legal Meaſure, or what money ſoever be the true Value of the Lands; ſo as the Plaintiffs at the end of the ſaid 21 years and a half, might juſtly be reſtored, or rather admitted to the poſſeſſion of their Lands?</p>
+            <p>Many who have been acquainted with theſe Queſtions, need not to have them explained, But the reſt of the World (for we addreſs to the whole World) muſt; Wherefore we ſay as followeth to the firſt, <hi>viz.</hi>
+            </p>
+            <p n="1">1. That Soldiers (whoſe Lots fell in <hi>Munſter</hi>) were for ſatisfaction of their ſervice, To have Lands at 9. ſhillings. the Acre, at a time when Lands were not worth 7 years purchaſe, (Though we ſhall reckon them here at ten:) So as the Lands muſt be worth about ten pence three farthings <hi>per</hi> Acre, to make ſuch a ſatisfaction; and becauſe about 3 pence three farthings muſt be paid out of it as an yearly Quit: Rent to the King, The Lands muſt be worth 14
+<pb n="4" facs="tcp:180486:4"/>
+pence half peny the Acre, or otherwiſe it will not be ſatisfactory or profita<g ref="char:EOLhyphen"/>ble in the ſence of the Law.</p>
+            <p n="2">2. In ſome parts of <hi>Munſter,</hi> much Lands were wholly unprofitable (as <hi>Logh,</hi> being no Land at all, Rock, upon which no graſſe Grew; Bogg, on which the little that grew, was inacceſſible but in ſome few monthes of the year. And in this ſame Country, few Lands were worth above 2 <hi>s.</hi> 6 <hi>d.</hi> the Acre before the Wars (when they were, and might be peopled and enjoyed and <hi>Anno</hi> 1655 when the ſame was Surveyed not ⅓ thereof) So as almoſt the whole County conſiſted of Lands dubiouſly, confuſedly and intermixt profitable, worth before the Wars between 1 <hi>d.</hi> and the ſaid 2 <hi>s.</hi> 6 <hi>d. per</hi> Acre; The Medium whereof is about 15 pence half peny as the value of indi<g ref="char:EOLhyphen"/>ferent good paſture Lands, and no Ill Standard and Meaſure of profitable Lands, in Order to a competent ſatifaction of the Soldiers.</p>
+            <p n="3">3 In Order to this Survey, an Inſtruction was given, Printed and publiſhed <hi>Anno</hi> 1654. for diſtinguiſhing between profitable and unprofitable in theſe words.</p>
+            <q>You are to diſtinguiſh by admeaſurement, the profitable, from the unprofitable, or return by good Eſtimate, the Aliquot part of the ſame, in caſe the One lyes dubious, and confuſed (Or in very many, and very ſmall ſpots) among the other.</q>
+            <p>The meaning whereof was, That if the diſtinction or bounds between profi<g ref="char:EOLhyphen"/>table and unprofitable were very plain and cleer, that the diſtinguiſhment ſhould be made by Lines, to be Geometrically admeaſured and deſcribed; But where a parcel of Land containing in Geometrical content, (ſuppoſe) 100 Acres had no more Tuſſocks of Paſturable graſſe growing within its whole circumference, then were equal to 25 Acres; Or if the whole 100 Acrers, were acceſſible for Cattle, but 3 monthes in the year; or if but one quarter of the graſſe were good food, and the reſt uſeleſs weeds, or that 4 Acres thereof were worth but one Acre of the worſt Arable in the ſame pariſh or Barony; or about 15 <hi>d. per an:</hi> We ſay, that the meaning of the ſaid Inſtruction was, that the Surveyors ſhould by good Eſtimate return the Ali<g ref="char:EOLhyphen"/>quot part, by ſaying (as in this Inſtance) that the ſaid Parcel of Land did contain 100 Acres, whereof one quarter was profitable, or indifferent paſture, or (which is all one) whereof 4 Acres are Equivalent to one of profitable, or indifferent good paſture or courſe Arable, or whereof 4 Acres are worth about 15 <hi>d.</hi> the intended value of one ſatisfactory Acre.</p>
+            <p n="4">4 In purſuance and according to this Inſtruction, the Surveyors have re<g ref="char:EOLhyphen"/>turned Books in theſe ſeveral forms folloing <hi>viz.</hi>
+            </p>
+            <pb n="5" facs="tcp:180486:4"/>
+            <p>
+               <table>
+                  <head>IN KERRY Down Survey.</head>
+                  <row>
+                     <cell role="label">1</cell>
+                     <cell role="label">2</cell>
+                     <cell role="label">3</cell>
+                     <cell role="label">4</cell>
+                     <cell role="label">5</cell>
+                     <cell role="label">6</cell>
+                     <cell role="label">7</cell>
+                     <cell role="label">8</cell>
+                  </row>
+                  <row>
+                     <cell role="label">Numb: in the Plot,</cell>
+                     <cell role="label">Proprie<g ref="char:EOLhyphen"/>tors Names,</cell>
+                     <cell role="label">Denomi<g ref="char:EOLhyphen"/>nations of Lands,</cell>
+                     <cell role="label">Number of Acres by admea<g ref="char:EOLhyphen"/>ſurement,</cell>
+                     <cell role="label">Lands Profi<g ref="char:EOLhyphen"/>table,</cell>
+                     <cell role="label">Lands Unpro<g ref="char:EOLhyphen"/>fitable,</cell>
+                     <cell role="label">The Value of Courſe Paſture ſhewing how many Acres is worth one of good Paſture,</cell>
+                     <cell role="label">The Profitable re<g ref="char:EOLhyphen"/>duced according to the value, or de<g ref="char:EOLhyphen"/>duction being made according to the Value,</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>Broſna,</hi>
+                     </cell>
+                     <cell>40,</cell>
+                     <cell>40</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>40,</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>Killen,</hi>
+                     </cell>
+                     <cell>50,</cell>
+                     <cell>40,</cell>
+                     <cell>10—</cell>
+                     <cell>—</cell>
+                     <cell>40,</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>Roſſan,</hi>
+                     </cell>
+                     <cell>120,</cell>
+                     <cell>120,</cell>
+                     <cell>—</cell>
+                     <cell>—6—</cell>
+                     <cell>20,</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label">1</cell>
+                     <cell role="label">2</cell>
+                     <cell role="label">3</cell>
+                     <cell role="label">4</cell>
+                     <cell role="label">5</cell>
+                     <cell role="label">6</cell>
+                     <cell role="label">7</cell>
+                  </row>
+                  <row>
+                     <cell role="label">Num-ber in the Plot,</cell>
+                     <cell role="label">Proprie<g ref="char:EOLhyphen"/>tors Names,</cell>
+                     <cell role="label">Denomi<g ref="char:EOLhyphen"/>nations of Lands,</cell>
+                     <cell role="label">Number of Acres by Admeaſurement and the quality of the Lands part-Profitable,</cell>
+                     <cell role="label">Acres equal to one in value,</cell>
+                     <cell role="label">Lands Profitable</cell>
+                     <cell role="label">Lands Unpro<g ref="char:EOLhyphen"/>fitable,</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>Broſna,</hi>
+                     </cell>
+                     <cell>40</cell>
+                     <cell>—</cell>
+                     <cell>40,</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>Killen,</hi>
+                     </cell>
+                     <cell>50</cell>
+                     <cell>—</cell>
+                     <cell>40,</cell>
+                     <cell>10,</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>Roſſan,</hi>
+                     </cell>
+                     <cell>120</cell>
+                     <cell>—6—</cell>
+                     <cell>20,</cell>
+                     <cell>—</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>
+                     <hi>And in</hi> Tirawly Down Survey.</head>
+                  <row>
+                     <cell role="label">1</cell>
+                     <cell role="label">2</cell>
+                     <cell role="label">3</cell>
+                     <cell role="label">4</cell>
+                     <cell role="label">5</cell>
+                     <cell role="label">6</cell>
+                  </row>
+                  <row>
+                     <cell role="label">Number of Reference,</cell>
+                     <cell role="label">Proprietors Names,</cell>
+                     <cell role="label">Denomina<g ref="char:EOLhyphen"/>tions,</cell>
+                     <cell role="label">Total Content,</cell>
+                     <cell role="label">Profitable,</cell>
+                     <cell role="label">Unprofitable</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>Broſna,</hi>—</cell>
+                     <cell>40,</cell>
+                     <cell>40,</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>Killen,</hi>—</cell>
+                     <cell>50,</cell>
+                     <cell>40,</cell>
+                     <cell>10,</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>Roſſan,</hi>—</cell>
+                     <cell>120</cell>
+                     <cell>20,</cell>
+                     <cell>100,</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>Profitable ⅙</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>And in <hi>Straffords</hi> Survey of <hi>Conaught</hi> and <hi>Clare</hi> made before the Wars.</head>
+                  <row>
+                     <cell role="label">1</cell>
+                     <cell role="label">2</cell>
+                     <cell role="label">3</cell>
+                     <cell role="label">4</cell>
+                     <cell role="label">5</cell>
+                     <cell role="label">6</cell>
+                  </row>
+                  <row>
+                     <cell role="label">Number,</cell>
+                     <cell role="label">Proprietors Names,</cell>
+                     <cell role="label">Denomina<g ref="char:EOLhyphen"/>tions,</cell>
+                     <cell role="label">Profitable,</cell>
+                     <cell role="label">Mixt,</cell>
+                     <cell role="label">Waſt,</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>Broſna</hi>—</cell>
+                     <cell>40,</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>Killen,</hi>—</cell>
+                     <cell>40,</cell>
+                     <cell>—</cell>
+                     <cell>10, 0, 00,</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>Roſſan,</hi>
+                     </cell>
+                     <cell>—</cell>
+                     <cell>120, 0, 00,</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>Profitable ⅙</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+               </table>
+            </p>
+            <p>All which <hi>Down</hi> Surveys were delivered into the Surveyor Generals Office in manner and form aforeſaid, after many ſorts of previous examinations, and after the Bonds for making the ſaid Survey were delivered up and can<g ref="char:EOLhyphen"/>celled <hi>anno</hi> 1657. and before the Lands in queſtion were ſet out, (which
+<pb n="6" facs="tcp:180486:5"/>
+were ſet out by the reduced Collumn,) and the ſaid Surveys and diſtributions were confirmed by pages 31, and 33 of the Act of Settlement; But moſt of all by pages 9 and 10. As alſo by pages 21, 22 and 23 of the Explanatory Act, even with all their faults, if any were in the ſame.</p>
+            <p n="5">5 After this Survey was ſo Recorded, 5 certain pariſhes in <hi>Munſter</hi> were given out in ſatisfaction of 9295 <hi>l.</hi> at the Act rates of 450 <hi>l. per</hi> Thouſand Acres; which ſaid pariſhes do contain 21000. Acres by the reduced Collumn, and do juſt anſwer the ſaid debt, but contain 138 thouſand Acres of Lands dubiouſly and confuſedly profitable, by the extreme Collumn; which Number payes it neer 7 times over, and the Civil-Survey (made by the Oaths of the moſt experienced Inhabitants of the place, by a Jury and before ſworn Commiſſioners; returned the ſame Lands to contain 20700 Acres, which the Reduced Collumn of the <hi>Down</hi> Survey makes 21000 Acres as aforeſaid; and is more then the Civil Survey, (which is alſo approved by the Act,) doth make it.</p>
+            <p n="6">6. Upon ſome Miſtake of charging Quit-rents (by unexperienced perſons ſoon after His Majeſties Reſtauration) according to the Extreme Collumn; His Majeſty <hi>anno</hi> 1662, rectifies the ſame by bringing down His Quit-rent, to the Reduced Collumn. The Court of Exchequer <hi>anno</hi> 1663/4 do the ſame by 2 formal Judgments. The Lord Lieutenant and Council did alſo Report unto, and adviſe His Majeſty to have the ſaid Reduced Collumn Juditially eſtabliſht. And two of the preſent Judges of the Exchequer and ſeveral other Judges (<hi>anno</hi> 1677. upon their Settlement of <hi>Conaught</hi>) charged Quit-rents only upon the Aliquot part profitable; And the Kings Attorney General in 4 Replications to the Plaintiffs Plea, hath confeſſed; That the Extreme Collumn, (though in ſome places intituled Profitable) contains Lands but <hi>dubiè &amp;. Confuſe utiles</hi> and that the Reduced Collumn contains the number of Acres ſatisfactory; and is the Method of the <hi>Down</hi> Survey.</p>
+            <p>Moreover, not only ſeveral parts of the Survey Books do expound one another, but the Authors of the ſaid Survey (beſides their former Oaths) have <hi>(viva voce)</hi> in open Court Sworn the Intenſion of the ſaid Survey to be as aforeſaid.</p>
+            <p n="8">8 It is to be further Noted as followeth <hi>viz.</hi>
+            </p>
+            <p n="1">1. That the aforementioned 21000 Reduced Acres of the ſaid 5 pariſhes are returned by the Civil Survey to have been worth before the Wars 1232 <hi>l.</hi> 18 <hi>s.</hi> 6 <hi>d.</hi> which is juſt 14 <hi>d.</hi> the Acre. Out of which 3 <hi>d.</hi> ¾ Quit-Rent muſt be paid. Now ſome of the Reduced Acres, are compounded of 40 Geometrical Acres ſtanding in the extream Collumn: But to charge the ſaid 40 Acres (worth but 14 <hi>d.</hi>) with 40 times 3 <hi>d.</hi> ¾ or 12 <hi>s.</hi> 6 <hi>d.</hi> Quit-Rent, is abſurd and impoſſible, eſpecially when according to the common Level of the whole Nation, the Quit-Rent of ſuch Lands would be under 2 <hi>d.</hi>
+            </p>
+            <p n="2">2. The Adventurers had the beſt Lands in <hi>Ireland</hi> allotted to their ſatis<g ref="char:EOLhyphen"/>faction, and yet one quarter thereof, is returned for abſolutly unprofitable, and chargeable with no Quit-Rent at all: But here, ſcarce 1/40 part is re<g ref="char:EOLhyphen"/>turned
+<pb n="7" facs="tcp:180486:5"/>
+for abſolutely unprofitable, which ſhews, That the unprofitable doth ſtand in the Extream Collumn, intermixt with the <hi>Dubie &amp; confuſe <g ref="char:V">Ʋ</g>ti<g ref="char:EOLhyphen"/>les,</hi> as the Attorney General and the Printed Inſtruction call them.</p>
+            <p n="3">3 In the Books of <hi>Corcaguiny,</hi> The Extream Collumn (which is in ſome other places intituled <hi>Profitable</hi> though in the ſenſe aforeſaid) is intituled <hi>Part Profitable</hi> and the Reduced Collumn hath no other Title then <hi>Profitable</hi> In this Barony there are no paſted Labells; Nor hath Sir <hi>Wm: Petty</hi> or <hi>Rob Marſhall</hi> any intereſt in the ſame? Nor is the Collumn of totall contents (being the ſame with the 4th Collumn in other places) at all expreſſed: ſo as in this Barony, The reduced Collumn is moſt indiſputably and litterally meant and expreſſed for the profitable meaſure, and this Barony Was returned upon the ſame Inſtructions, and by the ſame hands as the reſt were. The Maps in both, are a like, though the form of the Collumes do differ, and in both places, the diference between the contents of both Collumnes, is thus expreſſed <hi>viz. [Acres to be deducted to make the other Profitable]</hi> Which is the ſame as to ſay, <hi>[Acres to be deducted out of the extreme Collumn, to make the Acres of the Reduced Collumn; profitable]</hi> So as the Title <hi>Profitable</hi> in the extreme is, and muſt be interpreted by the 7th Collumn of values or Aliquot parts, which is an Integral part of the <hi>Down</hi> Survey, and can ſigni<g ref="char:EOLhyphen"/>fy nothing elſe. <hi>Thus</hi> the 5th Collumn may as well be called <hi>Profitable</hi> as a ſtack of Corn may be called <hi>Corn:</hi> Beſides, there ſtand many parcels in the ſaid extream Collumn, which in Truth are wholy &amp; abſolutely <hi>Profitable,</hi> &amp; never reduced to a leſſer Number in the ſubjoyned Collumns, as hath been raſhly and vainly alleadg'd. Now theſe parcells wholy profitable, and all the reſt being part profitable, had, (upon good conſideration) the Title of profitable put over them; Becauſe the Collumns imediately adjoyned, as alſo the Maps, Abſtracts, Inſtructions, Values and <hi>Corcaguiny,</hi> beſides the Surveyors themſelves, did all expound and limit the ſame in that ſence which all Unbyaſſed partys have ſtill underſtood and adjudged it, The O<g ref="char:EOLhyphen"/>ther meaning being abſurd and Naturally impoſſible. And even the Court of Claimes did allow 54000 Acres of Lands profitable according to the extreme Collumn in ſatisfactiſion of 2551 <hi>l.</hi> which is 9 times more then was due at the Act rates of 450 <hi>l. per</hi> thouſand Acres.</p>
+            <div type="part">
+               <head>Objections to the Premiſſies.</head>
+               <p>ALTHOUGH the Lands in queſtion were ſet out by the Re<g ref="char:EOLhyphen"/>duc'd Collumn, as aforeſaid and no alteration or correction was made thereof by page 33 of the Act of Settlement. Though the King and Government allowed the Reduced Collumn <hi>anno</hi> 1662. and 2 Judg<g ref="char:EOLhyphen"/>ments paſſed for it <hi>anno</hi> 1663/4 though the Court of Claimes allowed 54000 Acres by the extreme Collumn to paſs in ſatisfaction of 2551<hi>l.</hi> debt, Though the Lord Lieutenant and Council repreſented to the King the Inconveniences
+<pb n="8" facs="tcp:180486:6"/>
+of the extreme Collumn <hi>anno</hi> 1670. and though the preſent Chancellor and Lord Chief Baron of the Exchequer, together with the Lord chief Juſtice <hi>Booth</hi> and Sir <hi>Richard Reynell</hi> charged all quitrents in <hi>Conaught Anno</hi> 1677 upon the aliquot part &amp; not the extreme meaſure; yet <hi>John Marſhall</hi> was adviſed to plead <hi>Anno</hi> 1678, To which the Attorney General Replyed in behalf of the reduced Collumn once, twice, thrice &amp; a fourth time, and the late farmers (deſigning to gain 30000 <hi>l.</hi> by the extream Collumn,) did, after 2 yeares ſiniſter machinations, upon the 20 <hi>January</hi> 1680, object as followeth.</p>
+               <p>
+                  <hi>Viz.</hi>
+               </p>
+               <p>object. 1. <hi>That the Column of aliquot parts or values and the reduced Collumn, were ſiniſterly paſted on to the Books of the Survey, ſince their being put into the Office.</hi>
+               </p>
+               <p>
+                  <hi>Anſwer.</hi> The contrary was proved by thoſe who made them, and the view of the Books doth ſhew the ſame to be Impoſſible, and where the reduced Collumn is cleereſt, There are no paſted Labells at all.</p>
+               <p>Object. 2. <hi>The latter Branch of the Printed Inſtruction, was not Intended for diſtinguiſhing Profitable from <g ref="char:V">Ʋ</g>nprofitable, and therefore did not Warrant the diſtinguiſhment as it ſtands in the Reduced Collumn.</hi>
+               </p>
+               <p>
+                  <hi>Anſwer.</hi> The Surveyors Swore they underſtood it ſo, and Acted accor<g ref="char:EOLhyphen"/>dingly, and their work was admitted after ſpecial debates there upon; Beſides the words of the Inſtructions explain themſelves.</p>
+               <p>Object. 3. <hi>That the ſaid Latter Branch was only to exempt the Surveyors from meaſuring ſmall parcells otherwiſe then by Eſtimate.</hi>
+               </p>
+               <p>
+                  <hi>Anſwer.</hi> Their Firſt Inſtruction Oblidged them to meaſure the ſmalleſt parcells, of Forfietd Lands; and their Books are full of parcells under ten Acres, and ſome of under an Acre, are returned by their Quantity, Figure and Scituation, and not by Eſtimate.</p>
+               <p>Object. 4. <hi>That the Inſtruction (if it were intended for diſtinguiſhment of Profitable from <g ref="char:V">Ʋ</g>nprofitable) was not purſued: But inſtead of ſuch Diſtinguiſh<g ref="char:EOLhyphen"/>ment, There was onely a Par made between the beſt and all other Lands, by ſet<g ref="char:EOLhyphen"/>ing forth how many Acres of the latter, was worth one of the firſt, or beſt.</hi>
+               </p>
+               <p>
+                  <hi>Anſwer.</hi> The Fact is denyed, for the Par, was between doubtful intermixt Lands and indifferent Good Paſture, or the Courſe Arrable of the place, which is the ſame as <hi>Profitable:</hi> ſo as the Reduced Acre (though compoſ'd of 40. Acres) was worth but about 14 pence before the War (as appears by Re<g ref="char:EOLhyphen"/>cord) and Lett <hi>Anno</hi> 1678 for leſs, by the late and preſent Farmers.</p>
+               <p>Object. 5. <hi>The Surveyors had no Standard whereby to make this Par and therefore the ſame is a meer Whimſey, and void.</hi>
+               </p>
+               <p>
+                  <hi>Anſwer.</hi> 1. They had a better Standard for this diſtinction between profi<g ref="char:EOLhyphen"/>table and unprofitable, then they had for doing it by Lines.</p>
+               <p n="2">2. They had the value before the Wars, and the advice of the moſt expe<g ref="char:EOLhyphen"/>rienced men of the Country, In ſo much as they did not differ from the civil Survey (allowed by the Act) above 500 in 21000 Acres.</p>
+               <p>Object. 6. <hi>They did not return how mmay Acres of courſe Land was worth
+<pb n="9" facs="tcp:180486:6"/>
+One of Profitable, but of Paſture, and ſo varied from their Inſtructions.</hi>
+               </p>
+               <p>
+                  <hi>Anſwer.</hi> In <hi>Straffords</hi> Survey, Paſturable and Profitable was taken for the ſame thing: (moſt Lands being Profitable but as they are Paſturable) for what is termed Paſture in the Collumnes, is called Profitable upon the Maps of <hi>Straffords</hi> Survey, as it alſo is on the <hi>Kerry</hi> Survey.</p>
+               <p>Object. 7. <hi>The Inſtructions require the returning of the</hi> aliquot <hi>part, But the Survey Mentions no</hi> Aliquot <hi>part, But how many Acres of courſe is worth one of Good, or the like.</hi>
+               </p>
+               <p>
+                  <hi>Anſwer.</hi> Tis The ſame thing to ſay That the Lands A, are One Quarter Profitable, or Paſturable, as to ſay, That 4 Acres of A, being courſe Dubious intermixt Lands, are worth One of indiferent good Paſture, <hi>viz.</hi> ſuch as was worth 14. <hi>d.</hi> the Acre before the Wars.</p>
+               <p>Object. 8. <hi>The</hi> 4th <hi>Collumn (which is the total content) ſeemes to be the ex<g ref="char:EOLhyphen"/>tream Collumn, and the</hi> 5th, <hi>(now called the extream) to be the reduced Collumn, and the</hi> 8th. <hi>(now called The Reduced Collumn) to be an <g ref="char:V">Ʋ</g>nreaſonable Reduce<g ref="char:EOLhyphen"/>ment upon a Reducement.</hi>
+               </p>
+               <p>
+                  <hi>Anſwer.</hi> 1. The total of 2, or more Numbers, is never called the Extreame of ſuch Numbers, Nor is the part of a total, ever Termed, the Reduce<g ref="char:EOLhyphen"/>ment thereof. 2. No Lands intirely Profitable (ſtanding in the 5th Collumn) was reduced in the 8th. but were the ſame in both. Laſtly, In ſome Baronies, the 4th. Collumn is wholely omitted, being onely the Reſult of other Collumns, and put in for Conveniencie onely.</p>
+               <p>Object. 9. <hi>The</hi> 5th, <hi>or Extream Column hath for Title the Word</hi> [Profi<g ref="char:EOLhyphen"/>table] <hi>in moſt Places.</hi>
+               </p>
+               <p>
+                  <hi>Anſwer.</hi> In that Title the word Profitable muſt be underſtood <hi>dubious inter<g ref="char:EOLhyphen"/>mixt Profitable</hi> made <hi>clear and neat Profitable</hi> by the 7th. Column, and ſet off in the 8th. Collumn, As a Stack of Corn is called <hi>Corn,</hi> though mixt with ſtraw &amp; Chaff; but the ſame being Winnowed by the 7th. Collumn, The 8th Collumn doth contain the Corn in the ſack, or fit for uſe, ſo as the 5th, 7th, and 8th Collumns, are as three Syllables of the ſame word? Nor can either of them be uſed alone or a part.</p>
+               <p n="2">2. The Surveyors have ſworn this to be their meaning in their Returnes, The Bookes themſelves ſhew it, but the Maps and abſtracts more expreſly, Beſides; in the Barony of <hi>Corcaguiny,</hi> The extreme Collumn hath for Title <hi>[part Profitable,]</hi> and the Reduced Collumn hath for Title <hi>[Profitable]</hi> and this Barony was Surveyed by the ſame hands upon the ſame Inſtructions with the reſt. Moreover, The Maps are alike, even where the Titles differ; and the words <hi>[Acres to be deducted to make the other Profitable]</hi> are in both Forms? Nor were the Surveyors limited to the method of their Collumns, and the variety of their wording doth beſt prove the unity and Identity of their meaning.</p>
+               <p>Object. 10. <hi>Theſe Aliquot parts or values, are no where but in</hi> Kerry? <hi>nor there, but where</hi> Petty <hi>and</hi> Marſhal are concerned.</p>
+               <p>
+                  <hi>Anſwer.</hi> 
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> The Aliquot parts (or Reduced Collumn which is the ſame thing) are in 4 Baronys of <hi>Kerry</hi> where <hi>Petty</hi> and <hi>Marſhall</hi> are not at all concern<g ref="char:EOLhyphen"/>ed, Nor have they any intereſt in <hi>Tirawly</hi> nor in the reſt of <hi>Conaught</hi> or <hi>Clare.</hi>
+               </p>
+               <p>
+                  <pb n="10" facs="tcp:180486:7"/>The aliquot parts are alſo in the <hi>Down</hi> Survey of <hi>Tyrawly</hi> and every where in <hi>Conaught</hi> and <hi>Clare;</hi> And although theſe three Surveys are repre<g ref="char:EOLhyphen"/>ſented in three ſeveral Forms, Yet in Subſtance, and in their Maps, They are all One, and the very ſeveral Forms are Convertible each into the other</p>
+               <p>Object. 11. <hi>That the Law ſaith the</hi> Profitable <hi>Acre ought to conſiſt of</hi> 160. <hi>Perches, but by admitting the Reduced Collumn, the ſaid Acre may contain</hi> 2000. <hi>or more Perches.</hi>
+               </p>
+               <p>
+                  <hi>Anſwer.</hi> If in a Surround of 2000. Perches, the Tuſſocks and ſpots of Paſture, amount but to 160. Perches, Then the Whole Surround is but one Acre Moreover, notwithſtanding this Law, 5000. Perches, were charged but as one Acre in <hi>Conaught</hi> by the preſent Judges of the Exchequer, and other. Judges alſo, in the year 1677. upon the Settlement of <hi>Conaught.</hi>
+               </p>
+               <p>Object. 12. 1 <hi>Thoſe that ſet out Lands</hi> Anno 1655.</p>
+               <p n="2">2. <hi>Thoſe who charged Quitrents</hi> Anno 1661.</p>
+               <p n="3">3. <hi>And the Court of</hi> Claims, <hi>did all take the extream Collumn for the legal content.</hi>
+               </p>
+               <p n="4">4. <hi>And Dr.</hi> Petty <hi>was paid for Meaſuring according to the ſame.</hi>
+               </p>
+               <p n="5">5. <hi>Nay, thoſe who had judgments for the Reduced Collumn did afterwards quit them, and ſubmit to the extream, without Reluctancy.</hi>
+               </p>
+               <p>
+                  <hi>Anſwer.</hi> Theſe 5. Objections are briefly anſwered thus.</p>
+               <p n="1">1. Thoſe who ſet out Lands by the Extreme Collumn did it,</p>
+               <list>
+                  <item>1. Before the Survey was ſettled, and without Order.</item>
+                  <item>2. By private Agreements, not publick Authority.</item>
+                  <item>3. In a way (by depreſſing the Act Rates) which was Equivalent to the doing of it by the Reduced Collumn, and according to what was then a Law.</item>
+               </list>
+               <p n="2">2. As to charging Quitrents by the Extreme Collumn, It was done by un<g ref="char:EOLhyphen"/>skilful perſons moſt erroniouſly, and ſoon after corrected by the King, &amp; Chief Governours of <hi>Ireland,</hi> and by two Judgments of the Court of Exchequer. And all this, before the <hi>Down</hi> Survey or Quitrent was confirmed by the Acts.</p>
+               <p n="3">3. What the Court of <hi>Claims</hi> ſemed to do, was done by their Sub-Commiſſio<g ref="char:EOLhyphen"/>ners who Acted by bookes which had not the ſaid 2 Collumns in them, who were under a Byas of Acrage, and what they did of this kind in the Lord <hi>Dillons</hi> decree, was afterwards corrected by the Exchequer.</p>
+               <p>Moreover, the Court of <hi>Claimes</hi> themſelves allowed 54000 Acres in ſatis<g ref="char:EOLhyphen"/>faction of of 2551 <hi>l.</hi> debt, whereas leſs then 6000. Acres anſwers the ſame.</p>
+               <p n="4">4. That Dr. <hi>Petty</hi> was paid by the Extream Collumn, is a matter uncer<g ref="char:EOLhyphen"/>tain and full of queſtions: But if he were not, he ought to have been ſo paid by the Extream Collumn for that his Contract bears it, and becauſe he ought to have rather more then leſs wages, for meaſuring of <hi>Bogs, Rocks, Shrubs</hi> and <hi>Loghs,</hi> and for making of extraordinary Collumns and Eſtimates, then for Meaſuring of plain and pleaſant places.</p>
+               <p n="5">5. Thoſe who quitted the Judgments which they had for the Reduced Collumne, did it for far greater Advantages- And thoſe who ſuffered them ſo to do, and to Retrench by the Extreme Collumn (to the great da<g ref="char:EOLhyphen"/>mage of the common ſtock) may at ſome time or other be queſtion'd for it. For all theſe Tranſactions were made truly <hi>Subſilentio;</hi> And whether they be good or not, muſt be leſt to the Law.</p>
+            </div>
+            <div type="part">
+               <pb n="11" facs="tcp:180486:7"/>
+               <head>Another ſort of Objections.</head>
+               <p>Object. <hi>TIs Dangerous to alter what the Court of</hi> Claims <hi>have once done and Executed.</hi>
+               </p>
+               <p>
+                  <hi>Anſwer.</hi> The charge of Quitrent made by the ſaid Court was Judicially al<g ref="char:EOLhyphen"/>tered in the Lord <hi>Dillons</hi> Caſe, being the very ſame with this? 2, This Act of the Court of <hi>Claims</hi> was but Miniſterial.</p>
+               <p n="3">3. They were <hi>[though worthy men]</hi> both Judges and parties in this mat<g ref="char:EOLhyphen"/>ter.</p>
+               <p n="4">4. They held forth an Eaſier Quitrent <hi>viz</hi> That of an half peny <hi>per</hi> Acre by the extream Collumn; ſo as <hi>Marſhalls</hi> Lands in <hi>Dunkeron</hi> (which are chargea<g ref="char:EOLhyphen"/>ble with 103 <hi>l.</hi> by the Reduced Collumn) would at an half peny <hi>per</hi> Acre by the extream Collumn, come but to 74<hi>l.</hi> which ſum ſtands ſtill in their Certificate.</p>
+               <p n="5">5. Moreover the Earl of <hi>Eſſex</hi> his Reducement did ſuperſead what the Court of <hi>Claims</hi> had done; 6. Beſides they Acted by defective Copies of the <hi>Down</hi> Survey, in Which the Reduced Collumn was wholely omitted.</p>
+               <p>Object 2. <hi>That the Earl of</hi> Eſſex <hi>had moderated theſe Quitrents from</hi> 492 <hi>l. to</hi> 148 <hi>l.</hi> per annum, <hi>and that his Certificate</hi> [taken out thereupon] <hi>was an Eſtopel to the Pleadant's claiming the Reduced Collumn.</hi>
+               </p>
+               <p>
+                  <hi>Anſwer.</hi> 1. The Lawyers have by Book-Caſes ſhewn, that the mention of an Eſtopel, is not onely Odious but in this Caſe Illegal, and diſhonourable to the King.</p>
+               <p n="2">2. It was never pleaded to be an Eſtopel in the Attorney Generalls four Replications, and that tis too late to plead it now.</p>
+               <p>Laſtly, The Earl of <hi>Eſſex</hi> his Certificate was not to take Effect, till Letters Patents were accepted upon it, which was never done, becauſe the ſaid Certi<g ref="char:EOLhyphen"/>ficate had many things in it, which <hi>[in reſpect to thoſe who made it]</hi> ſhall not be mentioned? Nor had the Earl of <hi>Eſſex</hi> &amp;c. any intention or authority to raiſe Quitrent above the Law, But to abate them ſo much below the Law, as might incourage Plantation.</p>
+               <p>Object. 3. <hi>Although the Attorney General hath confeſſed that the Reduced Collumn is an integral part of the</hi> Down <hi>Survey and made upon the Printed In<g ref="char:EOLhyphen"/>ſtructions, that the Method of this Survey, is the Rule for ſatisfing the Sol<g ref="char:EOLhyphen"/>diers and charging Quitrents, That the Lands in the Extream Collumn are but</hi> dubiè &amp; confuſé Utiles, <hi>That the Lands in the plea were ſet out by the Re<g ref="char:EOLhyphen"/>duced Collumn, That the</hi> Conaught <hi>Survey is the ſame as in</hi> Kerry, <hi>and that the Charging of Quitrents there, is the ſame as is demanded here</hi> &amp;c.</p>
+               <p>
+                  <hi>It was ſaid, That his Confeſſion (though ſo often and deliberately reveiwed) was of little weight.</hi>
+               </p>
+               <p>
+                  <hi>Anſwer.</hi> The Law-Books ſhew, that in Matters of fact, his Confeſſion binds the Court, for otherwiſe his Confeſſion was of leſſer force then that of the meaneſt Attornyes which bindeth his Clyent; Beſides, the Fact confeſſed; was all proved over again before the Court.</p>
+            </div>
+            <div type="part">
+               <pb n="12" facs="tcp:180486:8"/>
+               <head>A Third ſort of Objections, were Anſwers to what <hi>Marſhal</hi> had pleaded viz.</head>
+               <p>
+                  <hi>Object.</hi> 1. <hi>THat the</hi> 2 <hi>Judgments of the Exchequer in behalf of the Reduced Collumn, paſſed</hi> Subſilentio <hi>and were after<g ref="char:EOLhyphen"/>words declined.</hi>
+               </p>
+               <p>
+                  <hi>Anſwer</hi> 1. They were expoſed to all perſons concerned.</p>
+               <p n="2">2. The Record publickly read in Court.</p>
+               <p n="3">3. They were grounded upon Certificates of the ſurveyor General and the oath of the particular ſurveyor.</p>
+               <p n="4">4. The King, the Lords Juſtices, Lord Lieutenant &amp; ſeverall Judges and pri<g ref="char:EOLhyphen"/>vy councellors allowed the ſame &amp; the like things; moreover the ſaid Judge<g ref="char:EOLhyphen"/>ments were declined <hi>ſubſilentio</hi> for ſiniſter ends, &amp; for greater advantages but never Judicially or otherwiſe null'd to this day. Laſtly, it apears not how little, or how much that <hi>Strepitus</hi> muſt be, which the Law calls <hi>Silentium.</hi>
+               </p>
+               <p>Object. 2. <hi>That though</hi> 54000. <hi>Acres ſeem to have been ſet out for</hi> 2551 <hi>l. which ſumm requires but</hi> 5668 <hi>Acres at the Act Rates of</hi> 450 <hi>l.</hi> per <hi>thouſand Acres in</hi> Munſter, <hi>Yet in truth</hi> 5668 <hi>Acres were only ſet out in ſatisfaction of the ſaid debt, and that the reſt</hi> [being above 48000. Acres] <hi>were caſt in for ſatis<g ref="char:EOLhyphen"/>faction of Incumbrances and Chiefryes wherewith the Lands were charged.</hi>
+               </p>
+               <p>
+                  <hi>Anſwer.</hi> It is ſtrange That the Incumbrances were 8 times more then the Value of the Land? or that 5668 Acres of cleer Lands could not have been found amongſt the 54000 Acres inſerted into the Certificate of the Court of <hi>Claimes;</hi> beſides ſuch a way of proceeding is without precedent, as well as without Reaſon.</p>
+               <p>Object. 3. <hi>That although the Lord Lieutenant and Council upon report of the Committee of the Council, (by Inſtruments ſigned by the Lord Lieutenant, Lord Chancelllor, Lord Chief Juſtice, Lord Chief Baron and many others) had recommended the Reduced Collumn to be Judicially confirmed, (as it had former<g ref="char:EOLhyphen"/>ly been) That the extreme Meaſure had been a loſs to the King, and would in<g ref="char:EOLhyphen"/>title the Farmers to Defalcations</hi> &amp;c. <hi>Yet the King had done nothing upon it</hi>
+               </p>
+               <p>
+                  <hi>Anſwer.</hi> The King (by his ſeveral Letters ſince) hath preſſed the Con<g ref="char:EOLhyphen"/>ſideration and Settlement of the Reduced Collumn; and this plea it ſelf was filed upon an Order of the Lord Lieutenant and Council in <hi>Trinity</hi> Term 1678, grounded upon his Majeſties ſaid Letters, and after the Earl of <hi>Eſſex</hi> his Re<g ref="char:EOLhyphen"/>ducement to 148 <hi>l. had been made.</hi>
+               </p>
+               <p>Object. 4. <hi>That the</hi> Conaught <hi>Survey was not like the</hi> Kerry <hi>Survey, and that if the Late Commiſſioners for the ſetling of</hi> Conaught <hi>had charged Quitrents onely upon the Aliquot part, and not the extream content, It did not concern the Pleadant to take notice of it.</hi>
+               </p>
+               <p>
+                  <hi>Anſwer.</hi> 1. The <hi>Kerry</hi> and the <hi>Conaught</hi> Surveyes are the ſame in ſubſtance and in their Maps, though they do differ onely in the form of their Books of Reference.</p>
+               <pb n="13" facs="tcp:180486:8"/>
+               <p n="2">2, The Reaſon of charging Quitrents in <hi>Conaught</hi> by the <hi>Aliquot</hi> part, is far leſs, and leſs Warrantable then in <hi>Kerry,</hi> and thoſe tranſactions are pro<g ref="char:EOLhyphen"/>duced by the Pleadant as precedents <hi>à fortiori;</hi> for that the Reduced Acres of <hi>Conought,</hi> are of Triple value to thoſe in <hi>Kerry;</hi> And for that the preſent Chan<g ref="char:EOLhyphen"/>cellour, and Lord Chief Baron of the Exchequer, were Judges and Com<g ref="char:EOLhyphen"/>miſſioners with the Lord Chief Juſtice <hi>Booth,</hi> and Sir <hi>Richard Reynel</hi> for <hi>Conaught:</hi> ſo as theſe Tranſactions were alſo pleaded as Arguments <hi>ad hominem</hi> as well as <hi>ad rem.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>As to the other Chief Queſtion, viz.</head>
+               <p>WHether, according to the true meaning of the Clauſe in the 37th Page of the Explanatory Act (Which appoints, That the legal Quit<g ref="char:EOLhyphen"/>rents ſhall be ſo Moderated as to incourage Plantation) That for ſcarce three years enjoyment of the Premiſſes, The Kings Miniſters ſhall diſpoſe of them the remainder of 21 years and a half, and (We might add) give the pro<g ref="char:EOLhyphen"/>fits of them to thoſe who never had any right thereunto, and who have Groſely contemned and Violated the Orders of Court made concerning the ſame?</p>
+               <p>As to this queſtion, We ſhall onely leave the Reader to an afidavit made the 25th of <hi>July</hi> 1681, before the Lord Chief <hi>Baron</hi> and hereunto annexed, until further proceedings ſhall call for a larger diſcourſe both upon this, and the former queſtion alſo? Onely Noting for the preſent, That out of the ſaid Afidavit, there do ariſe the following Arguments for diſcharging of the ſaid Lands from all Seiſures <hi>Cuſtodiums</hi> &amp;c. <hi>viz.</hi>
+               </p>
+               <p n="1">1, <hi>Arg.</hi> It is moſt certain that the King hath had theſe Lands by ſeiſure &amp; <hi>Cuſtodium</hi> from <hi>Eaſter</hi> 1675 to <hi>Michaelmas</hi> 1681, which is 6 years and a half, and that the <hi>Grantees</hi> never medled with them in any meaſure, but be<g ref="char:EOLhyphen"/>tween <hi>Michaelmas</hi> 1668 and <hi>Eaſter</hi> 1675, Which is alſo 6 yeares and a half: ſo as by the ſevereſt Rules that ever were conceived, the King was never to have one half of the Profits for his Quitrent, as (in this Caſe) he hath had.</p>
+               <p n="2">2, <hi>Arg</hi> It is certain, That (beſides the ſaid 6, years and a half from 1675 to 1681.) the King and others (under him) did alſo poſſeſs the premiſſes from <hi>Eaſter</hi> (1660 to <hi>Michaelmas</hi> 1668, which is 8 yeares and a half more, making in all 15 yeares, which is certainly ſufficient to pay the Quitrent for 6 years and a half,</p>
+               <p n="3">3 <hi>Arg.</hi> of the 6 years and a half (hitherto ſuppoſed to have been enjoyed by the Grantees) It will appear, That not 3 years of the ſaid 6 years and a half, hath been ſo enjoyed by them, <hi>viz.</hi>
+               </p>
+               <p n="1">1, By Reaſon of Levari's and Seiſures happening within the ſaid 6 years and a half.</p>
+               <p n="2">2, By the Uſurpation of certain perſons called <hi>REFRACTORIES.</hi>
+               </p>
+               <pb n="14" facs="tcp:180486:9"/>
+               <p n="3">3, By the frequent and cruel diſtrainings of the late Farmers for what was neither due nor poſſible to be paid.</p>
+               <p n="4">4. For that the 2392 <hi>l.</hi> (acknowledged to have been recieved) is not full 3 yeares Rent according to the Leaſes by which the Grantees did, or might have let the ſame, if they might have been quiet.</p>
+               <p>Wherefore 3 yeares and a half of the ſaid 6 years and a half, was held by the King and thoſe who directly or indirectly made uſe of his Name; ſo as the ſaid 3 yeares and a half added to the laſt mentioned 15 yeares, makes 18 years and a hlaf, and is a ſufficient quitrent for the other 3 yeares,</p>
+               <p n="4">4, <hi>Arg.</hi> The ſaid 2392 <hi>l.</hi> is not 2 years and a halfs Rent according to the pre<g ref="char:EOLhyphen"/>ſent <hi>Cuſtodium</hi> Rent of 1120 <hi>l. per annum;</hi> ſo as the Queſtion now is, whether 19 years be a ſufficient Quitrent for 2 yeares and a half?</p>
+               <p n="5">5, <hi>Arg.</hi> The ſaid 2392 <hi>l.</hi> is not One year and a halfs Rent, at the Rate of 1830 <hi>l. per annum:</hi> which the Farmers have certified the Lands, which yeilded the ſaid Money, to be worth; ſo as the laſt Queſtion? is, whether 20 yeares, be not a ſufficient quitrent for one year and a half, Whereas by the Earl of <hi>Eſſex</hi> his moſt ſevere Rule, one year ſhould ſuffice for that purpoſe: ſo as the other years (all quitrents being diſcharged,) together with the value of the ſaid Woods) is to be accompted for, to the Grantees:</p>
+               <p n="6">6 <hi>Arg. Moreover,</hi> although the Earle of <hi>Eſſex</hi> and the other Commiſſioners made a Rule, That ⅖ parts ſhould be given to the King for Quitrent, (againſt which, there are many weighty Objections) yet even according to that Se<g ref="char:EOLhyphen"/>vere Rule it ſelf, The King was paid his quitrents by Anticipation, even in that proportion up to <hi>Eaſter</hi> 1681 by the firſt 8 yeares and a half; for that 8 years and a half, is the ⅖ of 21 yeares; &amp; a quarter; But It will rather appear, That the King had theſe Lands ten years before the Grantees had any profit at all out of them, and conſequently was paid up till the year 1685; and moreover that he had held them the Equivalent of 15 yeares, when the Grantees had held them but three yeares before the Cuſtodium was granted <hi>Anno</hi> 1678; And alſo that the ſaid <hi>Cuſtodium</hi> was granted after his Majeſty (by the advice of the Earl of <hi>Eſſex</hi> himſelf and Lord high Treaſurer of <hi>England,</hi> in his Letters of the 28th of <hi>April</hi> 1676 and the 8th of <hi>December</hi> 1677) had directed the con<g ref="char:EOLhyphen"/>trary.</p>
+               <p>Theſe 6 Arguments (riſing gradually one above another) We hope, will be as <hi>Eaſy ſtairs</hi> by which the Lameſt underſtanding may get up to the Top of this Truth; <hi>to wit,</hi> That the ſaid Lands ought now, to be (and long ſince to have been) diſcharged from all ſeiſures, <hi>Cuſtodiums</hi> &amp;c. even according to the ſevereſt Rules that ever were made in purſuance of the ſaid Clauſe in the 37th Page of the Explanatory Act; But much more, according to the Rates made by the Lord Lieutenant and Council, and according to the dictates of common ſenſe and Reaſon, and the common Rule of the whole King<g ref="char:EOLhyphen"/>dom, For if but one year in 8, or if but ⅛ part of the Profits be generally given to His Majeſty for Quitrnet throughout the whole Nation; then It is won<g ref="char:EOLhyphen"/>derful, That above 18 years diſpoſure of the premiſes ſhould not have ſatisfied the Kings-quitrents for the Grantees enjoyment of the ſame but 3 years onely, As the Subſequent <hi>Afidavit</hi> Importeth.</p>
+               <closer>
+                  <hi>The Affidavit made before the Lord Chief Barron</hi> Hene.</closer>
+               <pb facs="tcp:180486:9"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
